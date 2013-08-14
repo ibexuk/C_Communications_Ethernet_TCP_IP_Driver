@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Embedded-Code Test Page</title>
+
+
+<style type="text/css">
+<!--
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: #FFFFFF;
+}
+.style3 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: large; }
+.style5 {font-family: Arial, Helvetica, sans-serif; font-size: small; }
+-->
+</style>
+</head>
+
+<body>
+
+<div align="center">
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><div align="center"><img src="images/ec_logo.jpg" width="200" height="70" /></div></td>
+    </tr>
+    <tr>
+      <td height="20"></td>
+    </tr>
+    <tr>
+      <td><div align="center" class="style3">Embedded-Code.com TCP/IP Driver Sample Web Page</div></td>
+    </tr>
+    <tr>
+      <td height="20"></td>
+    </tr>
+  </table>
+
+  <table width="600" border="2" cellpadding="2" cellspacing="0" bordercolor="#348743">
+    <tr>
+      <td bgcolor="#348743"><div align="center" class="style2">
+        <div align="left"><strong>Setup POP3 Email Receive</strong></div>
+      </div></td>
+    </tr>
+    <tr>
+      <td height="20">
+      
+      <form name="setup_pop3" method="get" action="index.html">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="200" height="5"></td>
+          <td width="10"></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><div align="right" class="style5">POP3 Server:</div></td>
+          <td></td>
+          <td align="left"><input name="pop3_server" type="text" value="~pop3_server-" size="40" maxlength="30" /></td>
+        </tr>
+        <tr>
+          <td><div align="right" class="style5">Username:</div></td>
+          <td></td>
+          <td align="left"><input name="pop3_username" type="text" value="~pop3_username-" size="40" maxlength="30" /></td>
+        </tr>
+        <tr>
+          <td><div align="right" class="style5">Password:</div></td>
+          <td></td>
+          <td align="left"><input name="pop3_password" type="password" value="~pop3_password-" size="40" maxlength="30" /></td>
+        </tr>
+        <tr>
+          <td><div align="right" class="style5">Check for mail now:</div></td>
+          <td></td>
+          <td align="left"><input name="pop3_check_mail" type="checkbox" value="1"/></td>
+        </tr>
+        
+        <tr>
+          <td></td>
+          <td></td>
+          <td align="left"><label>
+            <input type="submit" name="pop3_submit" value="Submit" />
+          </label></td>
+        </tr>
+      </table>
+      </form>
+      </td>
+    </tr>
+  </table>
+  
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="20"></td>
+    </tr>
+  </table>
+  
+  <table width="600" border="2" cellpadding="2" cellspacing="0" bordercolor="#348743">
+    <tr>
+      <td bgcolor="#348743"><div align="center" class="style2">
+          <div align="left"><strong>Setup SMTP Email Send</strong></div>
+      </div></td>
+    </tr>
+    <tr>
+      <td height="20"><form action="index.html" method="post" enctype="application/x-www-form-urlencoded" name="setup_smtp">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="200" height="5"></td>
+              <td width="10"></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">SMTP Server:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_server" type="text" value="~smtp_server-" size="40" maxlength="30" /></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">Username:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_username" type="text" value="~smtp_username-" size="40" maxlength="30" /></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">Password:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_password" type="password" value="~smtp_password-" size="40" maxlength="30" /></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">To Address:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_to" type="text" value="~smtp_to-" size="40" maxlength="30" /></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">From Address:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_from" type="text" value="~smtp_from-" size="40" maxlength="30" /></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">Subject:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_subject" type="text" value="~smtp_subject-" size="40" maxlength="30" /></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">Send mail now:</div></td>
+              <td></td>
+              <td align="left"><input name="smtp_send_mail" type="checkbox" value="1"/></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td align="left"><label>
+                <input type="submit" name="smtp_submit" value="Submit" />
+              </label></td>
+            </tr>
+          </table>
+      </form></td>
+    </tr>
+  </table>
+  
+  <table width="600" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td height="20"></td>
+    </tr>
+  </table>
+  
+  <table width="600" border="2" cellpadding="2" cellspacing="0" bordercolor="#348743">
+    <tr>
+      <td bgcolor="#348743"><div align="center" class="style2">
+          <div align="left"><strong>Upload File</strong></div>
+      </div></td>
+    </tr>
+    <tr>
+      <td height="20"><form action="index.html" method="post" enctype="multipart/form-data" name="upload">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="200" height="5"></td>
+              <td width="10"></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td><div align="right" class="style5">Select File:</div></td>
+              <td></td>
+              <td align="left"><label>
+                <input name="upload_filename" type="file" size="40" />
+              </label></td>
+            </tr>
+            
+            
+            
+            <tr>
+              <td></td>
+              <td></td>
+              <td align="left"><label>
+                <input type="submit" name="upload_submit" value="Send" />
+              </label></td>
+            </tr>
+          </table>
+      </form></td>
+    </tr>
+  </table>
+ 
+</div>
+</body>
+</html>

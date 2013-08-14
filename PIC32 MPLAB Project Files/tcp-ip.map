@@ -1,0 +1,1615 @@
+Archive member included because of file (symbol)
+
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_general_exception_context)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (exit)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (_libc_data)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o) (_filbuf_simple)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (pthread_mutex_lock)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_bootstrap_exception_handler)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_on_reset)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_on_bootstrap)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_nmi_handler)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o) (_mon_getc)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o) (_mon_write)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (_exit)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o) (errno)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o) (_mon_putc)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o)
+                              ap-main.o (SpiChnOpen)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_disable_interrupts_lib.o)
+                              ap-main.o (INTDisableInterrupts)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_mv_int_lib.o)
+                              ap-main.o (INTEnableSystemMultiVectoredInt)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_restore_interrupts_lib.o)
+                              ap-main.o (INTRestoreInterrupts)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_in_lib.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o) (PORTSetPinsDigitalIn)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_out_lib.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o) (PORTSetPinsDigitalOut)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(pcache.o)
+                              ap-main.o (CheKseg0CacheOn)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_interrupts_lib.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_mv_int_lib.o) (INTEnableInterrupts)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(spi_io_tbl_libp.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o) (SpiIoTbl)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(spi_map_tbl_libp.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o) (SpiMapTbl)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                              ap-main.o (INTClearFlag)
+C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(_ports_tbl_libp.o)
+                              C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_in_lib.o) (PortRegTbl)
+
+Allocating common symbols
+Common symbol       size              file
+
+sm_ethernet_stack   0x1               eth-main.o
+http_post_is_multipart_type
+                    0x1               eth-http.o
+pop3_100ms_timeout_timer
+                    0x2               eth-pop3.o
+nic_is_linked       0x1               eth-nic.o
+smtp_server_node    0xc               eth-smtp.o
+tcp_tx_checksum_next_byte_low
+                    0x1               eth-tcp.o
+netbios_requested_name
+                    0x22              eth-netbios.o
+boundary_register   0x1               eth-nic.o
+http_post_boundary_string
+                    0x46              eth-http.o
+send_email_body_next_byte
+                    0x2               ap-main.o
+smtp_include_file_attachment
+                    0x1               eth-smtp.o
+email_reply_to_string
+                    0x24              eth-pop3.o
+ip_tx_ip_header_checksum
+                    0x2               eth-ip.o
+tcp_client_socket_timeout_timer
+                    0x1               ap-main.o
+our_mac_address     0x6               eth-main.o
+http_post_boundary_compare_length
+                    0x1               eth-http.o
+http_post_reading_data
+                    0x1               eth-http.o
+nic_rx_next_packet_pointer_value
+                    0x1               eth-nic.o
+smtp_email_progress_string_update
+                    0x1               eth-smtp.o
+udp_socket          0x60              eth-udp.o
+http_post_leading_spaces_passed
+                    0x1               eth-http.o
+nic_rx_bytes_remaining
+                    0x2               eth-nic.o
+smtp_tcp_socket     0x1               eth-smtp.o
+dns_100ms_timeout_timer
+                    0x1               eth-dns.o
+tcp_tx_checksum     0x2               eth-tcp.o
+ip_tx_ip_header_checksum_next_byte_low
+                    0x1               eth-ip.o
+http_post_line_buffer
+                    0x28              eth-http.o
+netbios_name_length
+                    0x1               eth-netbios.o
+dns_requested_url   0x40              eth-dns.o
+our_gateway_ip_address
+                    0x4               eth-main.o
+pop3_email_progress_string_pointer
+                    0x4               eth-pop3.o
+tcp_socket          0xd0              eth-tcp.o
+dns_requested_qtype
+                    0x1               eth-dns.o
+dns_resolved_ip_address
+                    0x4               eth-dns.o
+tcp_tx_resp_after_proc_rx_resp_flags
+                    0x1               eth-tcp.o
+smtp_receive_message_string
+                    0x8               eth-smtp.o
+sm_send_email_data  0x1               eth-smtp.o
+smtp_use_authenticated_login
+                    0x1               eth-smtp.o
+sm_sntp             0x1               eth-sntp.o
+read_switches_flag  0x1               ap-main.o
+http_post_decoder_buffer
+                    0x3               eth-http.o
+DNSServerNode       0xc               eth-dns.o
+udp_client_socket_timeout_timer
+                    0x1               ap-main.o
+pop3_email_progress_string_update
+                    0x1               eth-pop3.o
+udp_rx_packet_is_waiting_to_be_processed
+                    0x1               eth-udp.o
+user_mode_10ms_timer
+                    0x2               ap-main.o
+http_socket         0x30              eth-http.o
+nic_speed_is_100mbps
+                    0x1               eth-nic.o
+http_post_line_length
+                    0x1               eth-http.o
+http_post_decode_count
+                    0x1               eth-http.o
+tcp_tx_data_byte_length
+                    0x2               eth-tcp.o
+smtp_receive_message_string_len
+                    0x1               eth-smtp.o
+next_connection_start_sequence_number
+                    0x4               eth-tcp.o
+ethernet_10ms_clock_timer_working
+                    0x4               eth-main.o
+next_local_tcp_port_to_use
+                    0x2               eth-tcp.o
+tcp_rx_active_socket
+                    0x1               eth-tcp.o
+eth_dhcp_1ms_timer  0x2               eth-dhcp.o
+http_post_boundary_length
+                    0x1               eth-http.o
+netbios_transaction_id
+                    0x2               eth-netbios.o
+dhcp_socket         0x1               eth-dhcp.o
+our_ip_address      0x4               eth-main.o
+nic_rx_packet_total_ethernet_bytes
+                    0x2               eth-nic.o
+dhcp_server_mac_addr
+                    0x6               eth-dhcp.o
+smtp_100ms_timeout_timer
+                    0x2               eth-smtp.o
+tcp_server_socket_timeout_timer
+                    0x1               ap-main.o
+http_post_filename  0x15              eth-http.o
+pop3_server_node    0xc               eth-pop3.o
+arp_last_received_response
+                    0xc               eth-arp.o
+sntp_100ms_timeout_timer
+                    0x1               eth-sntp.o
+udp_tx_checksum     0x2               eth-udp.o
+ethernet_10ms_clock_timer
+                    0x4               eth-main.o
+nic_rx_packet_waiting_to_be_dumped
+                    0x1               eth-nic.o
+http_post_content_bytes_remaining
+                    0x4               eth-http.o
+udp_rx_active_socket
+                    0x1               eth-udp.o
+smtp_email_progress_string_pointer
+                    0x4               eth-smtp.o
+netbios_our_network_name
+                    0x10              eth-netbios.o
+nic_tx_len          0x2               eth-nic.o
+eth_dhcp_using_manual_settings
+                    0x1               eth-dhcp.o
+send_email_file_next_byte
+                    0x2               ap-main.o
+eth_dhcp_1sec_renewal_timer
+                    0x4               eth-dhcp.o
+dhcp_offer_ip_addr  0x4               eth-dhcp.o
+tcp_rx_packet_is_waiting_to_be_processed
+                    0x1               eth-tcp.o
+sm_dhcp             0x1               eth-dhcp.o
+eth_dhcp_1sec_lease_timer
+                    0x4               eth-dhcp.o
+general_use_10ms_timer
+                    0x2               ap-main.o
+send_email_body_byte_number
+                    0x2               eth-smtp.o
+sm_http_socket      0x1               eth-http.o
+udp_tx_checksum_next_byte_low
+                    0x1               eth-udp.o
+general_use_100ms_timer
+                    0x2               ap-main.o
+pop3_receive_message_string
+                    0x51              eth-pop3.o
+dhcp_server_ip_addr
+                    0x4               eth-dhcp.o
+pop3_receive_message_string_len
+                    0x1               eth-pop3.o
+our_subnet_mask     0x4               eth-main.o
+tcp_tx_resp_after_proc_rx_socket
+                    0x1               eth-tcp.o
+sm_arp              0x1               eth-arp.o
+http_post_file_extension
+                    0x3               eth-http.o
+http_post_encoding  0x1               eth-http.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+kseg0_program_mem 0x9d000000         0x00080000         xr
+kseg0_boot_mem   0x9fc00490         0x00000970
+exception_mem    0x9fc01000         0x00001000
+kseg1_boot_mem   0xbfc00000         0x00000490
+debug_exec_mem   0xbfc02000         0x00000ff0
+config3          0xbfc02ff0         0x00000004
+config2          0xbfc02ff4         0x00000004
+config1          0xbfc02ff8         0x00000004
+config0          0xbfc02ffc         0x00000004
+kseg1_data_mem   0xa0000000         0x00008000         w !x
+sfrs             0xbf800000         0x00100000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+                0x00000001                _DEBUGGER = 0x1
+LOAD ap-main.o
+LOAD eth-arp.o
+LOAD eth-dhcp.o
+LOAD eth-dns.o
+LOAD eth-http.o
+LOAD eth-icmp.o
+LOAD eth-ip.o
+LOAD eth-main.o
+LOAD eth-netbios.o
+LOAD eth-nic.o
+LOAD eth-pop3.o
+LOAD eth-smtp.o
+LOAD eth-sntp.o
+LOAD eth-tcp.o
+LOAD eth-udp.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000001                __MPLAB_DEBUG = 0x1
+                0x00000001                __MPLAB_DEBUGGER_REAL_ICE = 0x1
+                0x00000001                __ICD2RAM = 0x1
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4\libgcc.a
+START GROUP
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libe.a
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libdsp.a
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a
+END GROUP
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4\libgcc.a
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+                0x00000000                PROVIDE (_min_heap_size, 0x0)
+LOAD C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX360F512L\processor.o
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9fc01000                _ebase_address = 0x9fc01000
+                0xbfc00000                _RESET_ADDR = 0xbfc00000
+                0xbfc00380                _BEV_EXCPT_ADDR = 0xbfc00380
+                0xbfc00480                _DBG_EXCPT_ADDR = 0xbfc00480
+                0xbfc02000                _DBG_CODE_ADDR = 0xbfc02000
+                0x9fc01180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC02FF0
+ *(.config_BFC02FF0)
+
+.config_BFC02FF4
+                0xbfc02ff4        0x4
+ *(.config_BFC02FF4)
+ .config_BFC02FF4
+                0xbfc02ff4        0x4 ap-main.o
+
+.config_BFC02FF8
+                0xbfc02ff8        0x4
+ *(.config_BFC02FF8)
+ .config_BFC02FF8
+                0xbfc02ff8        0x4 ap-main.o
+
+.config_BFC02FFC
+                0xbfc02ffc        0x4
+ *(.config_BFC02FFC)
+ .config_BFC02FFC
+                0xbfc02ffc        0x4 ap-main.o
+
+.reset          0xbfc00000       0x10
+ *(.reset)
+ .reset         0xbfc00000       0x10 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+                0xbfc00000                _reset
+
+.bev_excpt      0xbfc00380       0x10
+ *(.bev_handler)
+ .bev_handler   0xbfc00380       0x10 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.dbg_excpt      0xbfc00480        0x8
+                0xbfc00488                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+ *fill*         0xbfc00480        0x8 00
+
+.dbg_code       0xbfc02000      0xff0
+                0xbfc02ff0                . = (. + DEFINED (_DEBUGGER)?0xff0:0x0)
+ *fill*         0xbfc02000      0xff0 00
+
+.app_excpt      0x9fc01180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9fc01180       0x10 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.vector_0       0x9fc01200        0x0
+ *(.vector_0)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9fc01220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9fc01240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9fc01260        0x0
+ *(.vector_3)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9fc01280        0x0
+ *(.vector_4)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9fc012a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9fc012c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9fc012e0        0x0
+ *(.vector_7)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9fc01300        0x0
+ *(.vector_8)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9fc01320        0x0
+ *(.vector_9)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9fc01340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9fc01360        0x0
+ *(.vector_11)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9fc01380        0x0
+ *(.vector_12)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9fc013a0        0x0
+ *(.vector_13)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9fc013c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9fc013e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9fc01400        0x0
+ *(.vector_16)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9fc01420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9fc01440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9fc01460        0x0
+ *(.vector_19)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9fc01480        0x8
+ *(.vector_20)
+ .vector_20     0x9fc01480        0x8 ap-main.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9fc014a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9fc014c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9fc014e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9fc01500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9fc01520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9fc01540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9fc01560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9fc01580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9fc015a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9fc015c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9fc015e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9fc01600        0x0
+ *(.vector_32)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9fc01620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9fc01640        0x0
+ *(.vector_34)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9fc01660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9fc01680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9fc016a0        0x0
+ *(.vector_37)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9fc016c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9fc016e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9fc01700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9fc01720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9fc01740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9fc01760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9fc01780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9fc017a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9fc017c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9fc017e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9fc01800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9fc01820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9fc01840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9fc01860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9fc01880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9fc018a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9fc018c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9fc018e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9fc01900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9fc01920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9fc01940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9fc01960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9fc01980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9fc019a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9fc019c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9fc019e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup        0x9fc00490      0x1e0
+ *(.startup)
+ .startup       0x9fc00490      0x1e0 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.text           0x9d000000    0x14abc
+                0x9d000000                _text_begin = .
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x9d000000       0x18 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .text          0x9d000018     0x2318 ap-main.o
+                0x9d001bc8                process_http_dynamic_data
+                0x9d000b24                read_switches
+                0x9d001a30                provide_smtp_next_data_byte
+                0x9d000018                initialise
+                0x9d001098                process_demo_udp_client
+                0x9d002168                Timer5IntHandler
+                0x9d002148                process_http_multipart_form_last_section_done
+                0x9d000c04                process_user_mode
+                0x9d001dbc                process_http_inputs
+                0x9d000ae0                main
+                0x9d0019c4                process_pop3_received_email_line
+                0x9d001360                process_demo_tcp_server
+                0x9d001600                process_demo_tcp_client
+                0x9d002310                _general_exception_handler
+                0x9d0020e8                process_http_multipart_form_header
+                0x9d002120                process_http_multipart_form_data
+                0x9d001980                sntp_send_receive_handler
+                0x9d001b94                process_http_authorise_request
+                0x9d000d0c                process_demo_udp_server
+ .text          0x9d002330      0x9f0 eth-arp.o
+                0x9d002450                arp_is_resolve_complete
+                0x9d0023a4                arp_resolve_ip_address
+                0x9d002540                arp_process_rx
+                0x9d0029a8                arp_tx_packet
+                0x9d002330                arp_initialise
+ .text          0x9d002d20     0x10fc eth-dhcp.o
+                0x9d002d60                process_dhcp
+                0x9d002d20                dhcp_initialise
+                0x9d0031d8                dhcp_tx_packet
+                0x9d003718                dhcp_rx_packet
+ .text          0x9d003e1c      0xf34 eth-dns.o
+                0x9d003f74                process_dns
+                0x9d003ef0                check_dns_response
+                0x9d0041d4                dns_send_request
+                0x9d003e1c                do_dns_query
+                0x9d004404                dns_check_response
+ .text          0x9d004d50     0x392c eth-http.o
+                0x9d00711c                http_transmit_error_response
+                0x9d004d50                http_initialise
+                0x9d00624c                http_setup_response
+                0x9d007af0                http_process_post_check_for_multipart_header
+                0x9d004de4                process_http
+                0x9d00819c                http_process_inputs
+                0x9d007344                http_process_post_message_body
+                0x9d0054c8                http_process_rx
+                0x9d007cf8                http_process_post_decode_next_data_byte
+                0x9d0080b4                http_convert_base64_to_bits
+                0x9d008610                http_send_const_string
+                0x9d0067bc                http_transmit_next_response_packet
+                0x9d008588                http_read_next_byte_to_buffer
+ .text          0x9d00867c      0x2c4 eth-icmp.o
+                0x9d00880c                icmp_send_packet
+                0x9d00867c                icmp_process_received_echo_request
+ .text          0x9d008940      0x50c eth-ip.o
+                0x9d008940                ip_get_header
+                0x9d008c94                ip_tx_packet
+                0x9d008d40                ip_add_bytes_to_ip_checksum
+                0x9d008bc0                ip_write_header
+ .text          0x9d008e4c      0xde8 eth-main.o
+                0x9d0093c8                convert_character_to_lower_case
+                0x9d00932c                swap_word_bytes
+                0x9d009434                convert_character_to_upper_case
+                0x9d0094a0                convert_string_to_lower_case
+                0x9d008eac                tcp_ip_process_stack
+                0x9d009758                convert_ascii_to_integer
+                0x9d008e4c                tcp_ip_initialise
+                0x9d009378                swap_dword_bytes
+                0x9d009820                convert_ascii_to_dword
+                0x9d0098e8                convert_word_to_ascii
+                0x9d009a20                convert_dword_to_ascii
+                0x9d009538                find_character_in_string
+                0x9d009b54                convert_ascii_hex_to_byte
+                0x9d0096e4                copy_ram_string_to_ram_string
+                0x9d0095b0                find_string_in_string_no_case
+ .text          0x9d009c34      0x6d4 eth-netbios.o
+                0x9d00a110                netbios_send_response
+                0x9d009c34                process_netbios_nameservice
+                0x9d009df8                netbios_check_rx_packet
+ .text          0x9d00a308     0x1494 eth-nic.o
+                0x9d00a4cc                nic_initialise
+                0x9d00afcc                nic_write_tx_word_at_location
+                0x9d00a358                nic_reset
+                0x9d00aeb4                nic_write_next_byte
+                0x9d00af58                nic_write_array
+                0x9d00aafc                nic_setup_read_data
+                0x9d00adac                nic_setup_tx
+                0x9d00b130                write_eth_header_to_nic
+                0x9d00ab40                nic_read_next_byte
+                0x9d00a308                nic_delay_ms
+                0x9d00ac8c                nic_move_pointer
+                0x9d00b328                nic_rx_overflow_clear
+                0x9d00aaa0                nic_ok_to_do_tx
+                0x9d00abfc                nic_read_array
+                0x9d00ad5c                nic_rx_dump_packet
+                0x9d00b268                nix_tx_packet
+                0x9d00a8c8                nic_check_for_rx
+ .text          0x9d00b79c     0x13e0 eth-pop3.o
+                0x9d00ca14                email_return_pop3_username
+                0x9d00b840                email_is_receive_active
+                0x9d00b884                email_process_pop3
+                0x9d00b79c                email_start_receive
+                0x9d00cac8                email_return_pop3_password
+                0x9d00c960                email_return_pop3_url
+ .text          0x9d00cb7c     0x24a0 eth-smtp.o
+                0x9d00cb7c                email_start_send
+                0x9d00ec98                email_return_smtp_username
+                0x9d00eeb4                email_return_smtp_sender
+                0x9d00cc7c                email_is_send_active
+                0x9d00ed4c                email_return_smtp_password
+                0x9d00ebe4                email_return_smtp_url
+                0x9d00ee00                email_return_smtp_to
+                0x9d00eaf8                email_convert_byte_to_base64_alphabet
+                0x9d00ef68                email_return_smtp_subject
+                0x9d00e320                send_email_get_next_byte
+                0x9d00ccc0                email_process_smtp
+                0x9d00e8f8                email_convert_3_bytes_to_base64
+ .text          0x9d00f01c      0x9e4 eth-sntp.o
+                0x9d00f0d8                process_sntp
+                0x9d00f094                sntp_is_get_time_active
+                0x9d00f01c                sntp_get_time
+ .text          0x9d00fa00     0x3650 eth-tcp.o
+                0x9d012210                tcp_send_command_packet_no_socket
+                0x9d012c58                tcp_does_socket_require_resend_of_last_packet
+                0x9d012cf8                tcp_check_socket_for_rx
+                0x9d0120c4                tcp_is_socket_closed
+                0x9d0122b4                tcp_send_command_packet_from_socket
+                0x9d00fb74                process_tcp
+                0x9d012bbc                tcp_tx_packet
+                0x9d011e70                tcp_close_socket
+                0x9d011c00                tcp_connect_socket_send_syn_request
+                0x9d01028c                tcp_process_rx
+                0x9d01203c                tcp_close_socket_from_listen
+                0x9d0126fc                tcp_setup_tx
+                0x9d011d2c                tcp_request_disconnect_socket
+                0x9d011710                tcp_connect_socket
+                0x9d011cc4                tcp_is_socket_connected
+                0x9d0124e4                tcp_setup_socket_tx
+                0x9d0129a8                tcp_write_array
+                0x9d011528                tcp_open_socket_to_listen
+                0x9d012d54                tcp_read_next_rx_byte
+                0x9d01291c                tcp_write_next_byte
+                0x9d012e18                tcp_read_rx_array
+                0x9d012128                tcp_is_socket_ready_to_tx_new_packet
+                0x9d012f14                tcp_dump_rx_packet
+                0x9d012a50                tcp_socket_tx_packet
+                0x9d00fa00                tcp_initialise
+ .text          0x9d013050     0x1148 eth-udp.o
+                0x9d0140d0                udp_tx_packet
+                0x9d01378c                udp_open_socket
+                0x9d014010                udp_write_next_byte
+                0x9d0130c4                udp_process_rx
+                0x9d013b94                udp_check_socket_for_rx
+                0x9d014068                udp_write_array
+                0x9d013de0                udp_dump_rx_packet
+                0x9d013bf0                udp_read_next_rx_byte
+                0x9d013ae4                udp_close_socket
+                0x9d013050                udp_initialise
+                0x9d013ccc                udp_read_rx_array
+                0x9d013e34                udp_setup_tx
+ .text.general_exception
+                0x9d014198       0xd0 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+                0x9d014198                _general_exception_context
+ .text.exit     0x9d014268       0x9c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                0x9d014268                exit
+ .text._filbuf_simple
+                0x9d014304       0x48 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d014304                _filbuf_simple
+ .text._fflush_simple
+                0x9d01434c       0x6c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d01434c                _fflush_simple
+ .text._flsbuf_simple
+                0x9d0143b8       0xdc C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d0143b8                _flsbuf_simple
+ .text._fwrite_simple
+                0x9d014494       0x84 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d014494                _fwrite_simple
+ .text._fsync_simple
+                0x9d014518       0x34 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d014518                _fsync_simple
+ .text._weak_pthread_mutex_init
+                0x9d01454c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01454c                _weak_pthread_mutex_init
+                0x9d01454c                pthread_mutex_init
+ .text._weak_pthread_mutex_destroy
+                0x9d014554        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014554                _weak_pthread_mutex_destroy
+                0x9d014554                pthread_mutex_destroy
+ .text._weak_pthread_mutex_lock
+                0x9d01455c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01455c                _weak_pthread_mutex_lock
+                0x9d01455c                pthread_mutex_lock
+ .text._weak_pthread_mutex_trylock
+                0x9d014564        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014564                _weak_pthread_mutex_trylock
+                0x9d014564                pthread_mutex_trylock
+ .text._weak_pthread_mutex_unlock
+                0x9d01456c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01456c                _weak_pthread_mutex_unlock
+                0x9d01456c                pthread_mutex_unlock
+ .text._weak_pthread_mutex_setname_np
+                0x9d014574        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014574                pthread_mutex_setname_np
+                0x9d014574                _weak_pthread_mutex_setname_np
+ .text._weak_pthread_mutexattr_init
+                0x9d01457c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01457c                _weak_pthread_mutexattr_init
+                0x9d01457c                pthread_mutexattr_init
+ .text._weak_pthread_mutexattr_destroy
+                0x9d014584        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014584                pthread_mutexattr_destroy
+                0x9d014584                _weak_pthread_mutexattr_destroy
+ .text._weak_pthread_mutexattr_setname_np
+                0x9d01458c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01458c                _weak_pthread_mutexattr_setname_np
+                0x9d01458c                pthread_mutexattr_setname_np
+ .text._weak_pthread_mutexattr_settype_np
+                0x9d014594        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014594                _weak_pthread_mutexattr_settype_np
+                0x9d014594                pthread_mutexattr_settype_np
+ .text._weak_pthread_sysconf_np
+                0x9d01459c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01459c                _weak_pthread_sysconf_np
+                0x9d01459c                pthread_sysconf_np
+ .text._weak_pthread_sigdisable_np
+                0x9d0145a4        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145a4                _weak_pthread_sigdisable_np
+                0x9d0145a4                pthread_sigdisable_np
+ .text._weak_pthread_sigrestore_np
+                0x9d0145ac        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145ac                pthread_sigrestore_np
+                0x9d0145ac                _weak_pthread_sigrestore_np
+ .text._weak__pthread_cleanup_push
+                0x9d0145b4        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145b4                _weak__pthread_cleanup_push
+                0x9d0145b4                _pthread_cleanup_push
+ .text._weak__pthread_cleanup_pop
+                0x9d0145bc        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145bc                _pthread_cleanup_pop
+                0x9d0145bc                _weak__pthread_cleanup_pop
+ .text._weak__pthread_cleanup_push_defer
+                0x9d0145c4        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145c4                _weak__pthread_cleanup_push_defer
+                0x9d0145c4                _pthread_cleanup_push_defer
+ .text._weak__pthread_cleanup_pop_restore
+                0x9d0145cc        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145cc                _pthread_cleanup_pop_restore
+                0x9d0145cc                _weak__pthread_cleanup_pop_restore
+ .text._weak_pthread_once
+                0x9d0145d4       0x2c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d0145d4                _weak_pthread_once
+                0x9d0145d4                pthread_once
+                0x9d0145d4                _pthread_once
+ .text._weak_pthread_key_create
+                0x9d014600        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014600                pthread_key_create
+                0x9d014600                _weak_pthread_key_create
+ .text._weak_pthread_setspecific
+                0x9d014608        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014608                _weak_pthread_setspecific
+                0x9d014608                pthread_setspecific
+ .text._weak_pthread_getspecific
+                0x9d014610        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014610                pthread_getspecific
+                0x9d014610                _weak_pthread_getspecific
+ .text._weak__libc_private_storage
+                0x9d014618        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d014618                _libc_private_storage
+                0x9d014618                _weak__libc_private_storage
+ .text._bootstrap_exception_handler
+                0x9d014620        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                0x9d014620                _bootstrap_exception_handler
+ .text._on_reset
+                0x9d014628        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                0x9d014628                _on_reset
+ .text._on_bootstrap
+                0x9d014630        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                0x9d014630                _on_bootstrap
+ .text          0x9d014638       0x18 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                0x9d014638                _nmi_handler
+ .text._mon_getc
+                0x9d014650        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+                0x9d014650                _mon_getc
+ .text._mon_write
+                0x9d014658       0x4c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+                0x9d014658                _mon_write
+ .text._exit    0x9d0146a4        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                0x9d0146a4                _exit
+ .text._mon_putc
+                0x9d0146ac       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+                0x9d0146ac                _mon_putc
+ .text.SpiChnOpen
+                0x9d0146d4      0x140 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o)
+                0x9d0146d4                SpiChnOpen
+ .text.INTDisableInterrupts
+                0x9d014814        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_disable_interrupts_lib.o)
+                0x9d014814                INTDisableInterrupts
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d01481c       0x34 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_mv_int_lib.o)
+                0x9d01481c                INTEnableSystemMultiVectoredInt
+ .text.INTRestoreInterrupts
+                0x9d014850       0x1c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_restore_interrupts_lib.o)
+                0x9d014850                INTRestoreInterrupts
+ .text.PORTSetPinsDigitalIn
+                0x9d01486c       0x3c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_in_lib.o)
+                0x9d01486c                PORTSetPinsDigitalIn
+ .text.PORTSetPinsDigitalOut
+                0x9d0148a8       0x3c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_out_lib.o)
+                0x9d0148a8                PORTSetPinsDigitalOut
+ .text.CheKseg0CacheOff
+                0x9d0148e4       0x18 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(pcache.o)
+                0x9d0148e4                CheKseg0CacheOff
+ .text.CheKseg0CacheOn
+                0x9d0148fc       0x18 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(pcache.o)
+                0x9d0148fc                CheKseg0CacheOn
+ .text.INTEnableInterrupts
+                0x9d014914        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_interrupts_lib.o)
+                0x9d014914                INTEnableInterrupts
+ .text.INTClearFlag
+                0x9d01491c       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d01491c                INTClearFlag
+ .text.INTSetFlag
+                0x9d014944       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d014944                INTSetFlag
+ .text.INTGetFlag
+                0x9d01496c       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d01496c                INTGetFlag
+ .text.INTEnable
+                0x9d014994       0x38 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d014994                INTEnable
+ .text.INTGetEnable
+                0x9d0149cc       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d0149cc                INTGetEnable
+ .text.INTSetPriority
+                0x9d0149f4       0x3c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d0149f4                INTSetPriority
+ .text.INTGetPriority
+                0x9d014a30       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d014a30                INTGetPriority
+ .text.INTSetSubPriority
+                0x9d014a58       0x3c C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d014a58                INTSetSubPriority
+ .text.INTGetSubPriority
+                0x9d014a94       0x28 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d014a94                INTGetSubPriority
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+                0x9d014abc                _text_end = .
+
+.rodata         0x9d014abc     0x3c1c
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x9d014abc      0x17c ap-main.o
+                0x9d014b70                default_pop3_username
+                0x9d014b48                html_name_smtp_send_mail
+                0x9d014b84                default_pop3_password
+                0x9d014b90                default_smtp_server
+                0x9d014b58                default_pop3_server
+                0x9d014b2c                html_name_smtp_from
+                0x9d014be0                default_smtp_from
+                0x9d014abc                html_name_pop3_server
+                0x9d014ac8                html_name_pop3_username
+                0x9d014b04                html_name_smtp_username
+                0x9d014bbc                default_smtp_password
+                0x9d014bf4                default_smtp_subject
+                0x9d014b14                html_name_smtp_password
+                0x9d014b24                html_name_smtp_to
+                0x9d014ae8                html_name_pop3_check_mail
+                0x9d014b38                html_name_smtp_subject
+                0x9d014af8                html_name_smtp_server
+                0x9d014ad8                html_name_pop3_password
+                0x9d014ba8                default_smtp_username
+                0x9d014bc8                default_smtp_to
+ .rodata        0x9d014c38       0x1c eth-dhcp.o
+ .rodata        0x9d014c54       0x18 eth-dns.o
+ .rodata        0x9d014c6c     0x2e90 eth-http.o
+                0x9d014d50                http_response_image_jpeg
+                0x9d014d44                http_response_image_gif
+                0x9d014db0                http_response_200
+                0x9d014ce4                http_filename_equals
+                0x9d014e98                http_response_501_not_implemented
+                0x9d014d6c                http_response_text_xml
+                0x9d014f08                http_response_503_unavailable
+                0x9d014c6c                http_content_type_file_extensions
+                0x9d016b68                images_ec_logo_jpg
+                0x9d014d84                http_response_audio_xwave
+                0x9d014d94                http_response_application_octetstream
+                0x9d014c90                http_content_length
+                0x9d014cdc                http_name_equals
+                0x9d014cf0                http_content_transfer_encoding
+                0x9d014dd8                http_response_400_bad_request
+                0x9d014d28                http_response_text_plain
+                0x9d014d60                http_response_image_png
+                0x9d014d78                http_response_text_css
+                0x9d014ca0                http_content_type
+                0x9d014d20                http_base64
+                0x9d014d0c                http_quoted_printable
+                0x9d014d38                http_response_text_html
+                0x9d014e3c                http_response_404_not_found
+                0x9d014cb0                http_multipart_form_data
+                0x9d014f88                index_htm
+                0x9d014cc4                http_content_disposition
+ .rodata        0x9d017afc       0x1c eth-main.o
+ .rodata        0x9d017b18      0x16c eth-pop3.o
+                0x9d017b30                pop3_email_progress_string_wait_pop3_arp_resp
+                0x9d017b1c                pop3_email_progress_string_wait_pop3_dns_resp
+                0x9d017b18                pop3_email_progress_string_null
+                0x9d017b84                pop3_email_progress_string_wait_pop3_password
+                0x9d017b98                pop3_email_progress_string_wait_pop3_stat
+                0x9d017bd4                pop3_email_progress_string_wait_pop3_quit
+                0x9d017b70                pop3_email_progress_string_wait_pop3_user
+                0x9d017be8                pop3_email_progress_string_complete
+                0x9d017bac                pop3_email_progress_string_wait_pop3_header
+                0x9d017bbc                pop3_email_progress_string_wait_pop3_delete
+                0x9d017b44                pop3_email_progress_string_wait_pop3_tcp_conn
+                0x9d017c20                pop3_subject_string
+                0x9d017b5c                pop3_email_progress_string_wait_pop3_greeting
+                0x9d017c00                pop3_email_progress_string_failed
+                0x9d017c18                pop3_reply_to_string
+ .rodata        0x9d017c84      0x348 eth-smtp.o
+                0x9d017f0c                mime_body_end_of_mime_string
+                0x9d017db4                smtp_email_progress_string_complete
+                0x9d017dc8                smtp_email_progress_string_failed
+                0x9d017d28                smtp_email_progress_string_wait_smtp_from
+                0x9d017e80                mime_body_file_header_string_1
+                0x9d017da0                smtp_email_progress_string_wait_smtp_quit
+                0x9d017cec                smtp_email_progress_string_wait_smtp_auth_login
+                0x9d017cc8                smtp_email_progress_string_wait_smtp_greeting
+                0x9d017d64                smtp_email_progress_string_sending_smtp_data
+                0x9d017c84                smtp_email_progress_string_null
+                0x9d017c9c                smtp_email_progress_string_wait_smtp_arp_resp
+                0x9d017f04                mime_body_file_header_string_2
+                0x9d017d50                smtp_email_progress_string_wait_smtp_data
+                0x9d017cb0                smtp_email_progress_string_wait_smtp_tcp_conn
+                0x9d017d14                smtp_email_progress_string_wait_smtp_password
+                0x9d017d8c                smtp_email_progress_string_wait_smtp_data_accepted
+                0x9d017c88                smtp_email_progress_string_wait_smtp_dns_resp
+                0x9d017d00                smtp_email_progress_string_wait_smtp_username
+                0x9d017d78                smtp_email_progress_string_wait_smtp_data_resp
+                0x9d017cdc                smtp_email_progress_string_wait_smtp_helo
+                0x9d017ddc                mime_header_for_text_string
+                0x9d017d3c                smtp_email_progress_string_wait_smtp_to
+ .rodata        0x9d017fcc       0x34 eth-sntp.o
+                0x9d017fcc                sntp_server_domain_name
+ .rodata        0x9d018000       0x28 eth-tcp.o
+ .rodata        0x9d018028       0x14 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+                0x9d018028                _io_funcs
+ .rodata        0x9d01803c       0x40 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(spi_io_tbl_libp.o)
+                0x9d01803c                SpiIoTbl
+ .rodata        0x9d01807c        0x8 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(spi_map_tbl_libp.o)
+                0x9d01807c                SpiMapTbl
+ .rodata        0x9d018084      0x600 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+                0x9d018084                __IntTbl
+ .rodata        0x9d018684       0x54 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(_ports_tbl_libp.o)
+                0x9d018684                PortRegTbl
+ *(.rodata1)
+                0x9d0186d8                . = ALIGN (0x4)
+
+.sdata2         0x9d0186d8        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9d0186d8                . = ALIGN (0x4)
+
+.sbss2          0x9d0186d8        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9d0186d8                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.dbg_data       0xa0000000      0x200
+                0xa0000200                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+ *fill*         0xa0000000      0x200 00
+
+.data           0xa0000200      0x164 load address 0x9d0186d8
+                0xa0000200                _data_begin = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0xa0000200       0x70 ap-main.o
+                0xa0000228                send_email_file_attachment
+                0xa0000200                send_email_body_text
+ .data          0xa0000270       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                0xa0000270                __exfun_mx
+ .data          0xa0000290       0xd4 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+                0x9d0186d8                _data_image_begin = LOADADDR (.data)
+
+.eh_frame
+ *(.eh_frame)
+                0xa0008360                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.sdata          0xa0000364       0x18 load address 0x9d01883c
+                0xa0000364                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0xa0000364        0x7 ap-main.o
+ .sdata         0xa000036b        0x1 eth-dns.o
+                0xa000036b                dns_udp_socket
+ .sdata         0xa000036c        0x8 eth-http.o
+                0xa000036c                http_filenames
+ .sdata         0xa0000374        0x1 eth-pop3.o
+                0xa0000374                pop3_tcp_socket
+ .sdata         0xa0000375        0x1 eth-sntp.o
+ *fill*         0xa0000376        0x2 00
+ .sdata         0xa0000378        0x4 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+                0xa0000378                _libc_data
+                0xa000037c                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa000037c                . = ALIGN (0x4)
+                0xa000037c                _data_end = .
+                0xa000037c                _bss_begin = .
+
+.sbss           0xa000037c      0x128
+                0xa000037c                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa000037c        0x9 ap-main.o
+                0xa000037d                switches_new
+                0xa000037c                switches_debounced
+ *fill*         0xa0000385        0x3 00
+ .sbss          0xa0000388        0x4 eth-dhcp.o
+                0xa0000388                eth_dhcp_our_name_pointer
+ .sbss          0xa000038c        0x2 eth-dns.o
+                0xa000038c                dns_state
+ .sbss          0xa000038e        0x2 eth-ip.o
+                0xa000038e                ip_packet_identifier
+ .sbss          0xa0000390       0x18 eth-main.o
+                0xa0000390                nic_linked_and_ip_address_valid
+ .sbss          0xa00003a8        0x2 eth-netbios.o
+                0xa00003a8                sm_netbios
+ .sbss          0xa00003aa        0x8 eth-pop3.o
+                0xa00003aa                sm_pop3
+ *fill*         0xa00003b2        0x2 00
+ .sbss          0xa00003b4       0x1c eth-smtp.o
+                0xa00003b4                sm_smtp
+ .sbss          0xa00003d0        0x1 eth-sntp.o
+ *fill*         0xa00003d1        0x3 00
+ .sbss          0xa00003d4        0x4 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+                0xa00003d4                errno
+ *(.scommon)
+ .scommon       0xa00003d8       0x10 ap-main.o
+                0xa00003d8                send_email_body_next_byte
+                0xa00003da                tcp_client_socket_timeout_timer
+                0xa00003db                read_switches_flag
+                0xa00003dc                udp_client_socket_timeout_timer
+                0xa00003de                user_mode_10ms_timer
+                0xa00003e0                tcp_server_socket_timeout_timer
+                0xa00003e2                send_email_file_next_byte
+                0xa00003e4                general_use_10ms_timer
+                0xa00003e6                general_use_100ms_timer
+ .scommon       0xa00003e8        0x1 eth-arp.o
+                0xa00003e8                sm_arp
+ *fill*         0xa00003e9        0x3 00
+ .scommon       0xa00003ec       0x20 eth-dhcp.o
+                0xa00003ec                eth_dhcp_1ms_timer
+                0xa00003ee                dhcp_socket
+                0xa00003f0                dhcp_server_mac_addr
+                0xa00003f6                eth_dhcp_using_manual_settings
+                0xa00003f8                eth_dhcp_1sec_renewal_timer
+                0xa00003fc                dhcp_offer_ip_addr
+                0xa0000400                sm_dhcp
+                0xa0000404                eth_dhcp_1sec_lease_timer
+                0xa0000408                dhcp_server_ip_addr
+ .scommon       0xa000040c        0x8 eth-dns.o
+                0xa000040c                dns_100ms_timeout_timer
+                0xa000040d                dns_requested_qtype
+                0xa0000410                dns_resolved_ip_address
+ .scommon       0xa0000414       0x18 eth-http.o
+                0xa0000414                http_post_is_multipart_type
+                0xa0000415                http_post_boundary_compare_length
+                0xa0000416                http_post_reading_data
+                0xa0000417                http_post_leading_spaces_passed
+                0xa0000418                http_post_decoder_buffer
+                0xa000041b                http_post_line_length
+                0xa000041c                http_post_decode_count
+                0xa000041d                http_post_boundary_length
+                0xa0000420                http_post_content_bytes_remaining
+                0xa0000424                sm_http_socket
+                0xa0000428                http_post_file_extension
+                0xa000042b                http_post_encoding
+ .scommon       0xa000042c        0x3 eth-ip.o
+                0xa000042c                ip_tx_ip_header_checksum
+                0xa000042e                ip_tx_ip_header_checksum_next_byte_low
+ *fill*         0xa000042f        0x1 00
+ .scommon       0xa0000430       0x20 eth-main.o
+                0xa0000430                sm_ethernet_stack
+                0xa0000434                our_mac_address
+                0xa000043c                our_gateway_ip_address
+                0xa0000440                ethernet_10ms_clock_timer_working
+                0xa0000444                our_ip_address
+                0xa0000448                ethernet_10ms_clock_timer
+                0xa000044c                our_subnet_mask
+ .scommon       0xa0000450        0x6 eth-netbios.o
+                0xa0000450                netbios_name_length
+                0xa0000454                netbios_transaction_id
+ .scommon       0xa0000456        0xe eth-nic.o
+                0xa0000456                nic_is_linked
+                0xa0000457                boundary_register
+                0xa0000458                nic_rx_next_packet_pointer_value
+                0xa000045a                nic_rx_bytes_remaining
+                0xa000045c                nic_speed_is_100mbps
+                0xa000045e                nic_rx_packet_total_ethernet_bytes
+                0xa0000460                nic_rx_packet_waiting_to_be_dumped
+                0xa0000462                nic_tx_len
+ .scommon       0xa0000464        0xa eth-pop3.o
+                0xa0000464                pop3_100ms_timeout_timer
+                0xa0000468                pop3_email_progress_string_pointer
+                0xa000046c                pop3_email_progress_string_update
+                0xa000046d                pop3_receive_message_string_len
+ *fill*         0xa000046e        0x2 00
+ .scommon       0xa0000470       0x1a eth-smtp.o
+                0xa0000470                smtp_include_file_attachment
+                0xa0000471                smtp_email_progress_string_update
+                0xa0000472                smtp_tcp_socket
+                0xa0000474                smtp_receive_message_string
+                0xa000047c                sm_send_email_data
+                0xa000047d                smtp_use_authenticated_login
+                0xa000047e                smtp_receive_message_string_len
+                0xa0000480                smtp_100ms_timeout_timer
+                0xa0000484                smtp_email_progress_string_pointer
+                0xa0000488                send_email_body_byte_number
+ .scommon       0xa000048a        0x2 eth-sntp.o
+                0xa000048a                sm_sntp
+                0xa000048b                sntp_100ms_timeout_timer
+ .scommon       0xa000048c       0x11 eth-tcp.o
+                0xa000048c                tcp_tx_checksum_next_byte_low
+                0xa000048e                tcp_tx_checksum
+                0xa0000490                tcp_tx_resp_after_proc_rx_resp_flags
+                0xa0000492                tcp_tx_data_byte_length
+                0xa0000494                next_connection_start_sequence_number
+                0xa0000498                next_local_tcp_port_to_use
+                0xa000049a                tcp_rx_active_socket
+                0xa000049b                tcp_rx_packet_is_waiting_to_be_processed
+                0xa000049c                tcp_tx_resp_after_proc_rx_socket
+ *fill*         0xa000049d        0x1 00
+ .scommon       0xa000049e        0x6 eth-udp.o
+                0xa000049e                udp_rx_packet_is_waiting_to_be_processed
+                0xa00004a0                udp_tx_checksum
+                0xa00004a2                udp_rx_active_socket
+                0xa00004a3                udp_tx_checksum_next_byte_low
+                0xa00004a4                _sbss_end = .
+
+.bss            0xa00004a4      0x544
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0xa00004a4       0xf0 ap-main.o
+                0xa0000504                our_smtp_username
+                0xa000054c                our_smtp_from
+                0xa00004bc                our_pop3_username
+                0xa00004a4                our_pop3_server
+                0xa0000564                our_smtp_subject
+                0xa00004ec                our_smtp_server
+                0xa00004d4                our_pop3_password
+                0xa000051c                our_smtp_password
+                0xa0000534                our_smtp_to
+ .bss           0xa0000594        0xc eth-arp.o
+ .bss           0xa00005a0       0x2c eth-main.o
+ .bss           0xa00005cc        0xc eth-sntp.o
+ .bss           0xa00005d8       0x88 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ .bss           0xa0000660       0x80 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .bss           0xa00006e0        0x4 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0xa00006e0                __isthreaded
+ *(COMMON)
+ COMMON         0xa00006e4        0xc eth-arp.o
+                0xa00006e4                arp_last_received_response
+ COMMON         0xa00006f0       0x4c eth-dns.o
+                0xa00006f0                dns_requested_url
+                0xa0000730                DNSServerNode
+ COMMON         0xa000073c       0xb5 eth-http.o
+                0xa000073c                http_post_boundary_string
+                0xa0000784                http_post_line_buffer
+                0xa00007ac                http_socket
+                0xa00007dc                http_post_filename
+ *fill*         0xa00007f1        0x3 00
+ COMMON         0xa00007f4       0x34 eth-netbios.o
+                0xa00007f4                netbios_requested_name
+                0xa0000818                netbios_our_network_name
+ COMMON         0xa0000828       0x81 eth-pop3.o
+                0xa0000828                email_reply_to_string
+                0xa000084c                pop3_server_node
+                0xa0000858                pop3_receive_message_string
+ *fill*         0xa00008a9        0x3 00
+ COMMON         0xa00008ac        0xc eth-smtp.o
+                0xa00008ac                smtp_server_node
+ COMMON         0xa00008b8       0xd0 eth-tcp.o
+                0xa00008b8                tcp_socket
+ COMMON         0xa0000988       0x60 eth-udp.o
+                0xa0000988                udp_socket
+                0xa00009e8                . = ALIGN (0x4)
+                0xa00009e8                . = ALIGN (0x4)
+                0xa00009e8                _end = .
+                0xa00009e8                _bss_end = .
+
+.heap           0xa00009e8        0x0
+                0xa00009e8                _heap = .
+                0xa00009e8                . = (. + _min_heap_size)
+
+.stack          0xa00009e8      0x400
+                0xa0000de8                . = (. + _min_stack_size)
+ *fill*         0xa00009e8      0x400 00
+
+.ramfunc        0xa0001000        0x0 load address 0x9d018854
+                0xa0001000                _ramfunc_begin = .
+ *(.ramfunc .ramfunc.*)
+                0xa0001000                . = ALIGN (0x4)
+                0xa0001000                _ramfunc_end = .
+                0x9d018854                _ramfunc_image_begin = LOADADDR (.ramfunc)
+                0x00000000                _ramfunc_length = SIZEOF (.ramfunc)
+                0x00001000                _bmxdkpba_address = (_ramfunc_begin - 0xa0000000)
+                0x00008000                _bmxdudba_address = 0x8000
+                0x00008000                _bmxdupba_address = 0x8000
+                0xa0008000                _stack = (_ramfunc_length > 0x0)?(_ramfunc_begin - 0x4):0xa0008000
+                0x00000001                ASSERT (((_min_stack_size + _min_heap_size) <= (_stack - _heap)), Not enough space to allocate both stack and heap.  Reduce heap and/or stack size.)
+
+.pdr            0x00000000     0x1aa0
+ *(.pdr)
+ .pdr           0x00000000       0xa0 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .pdr           0x000000a0      0x280 ap-main.o
+ .pdr           0x00000320       0xa0 eth-arp.o
+ .pdr           0x000003c0       0x80 eth-dhcp.o
+ .pdr           0x00000440       0xa0 eth-dns.o
+ .pdr           0x000004e0      0x1a0 eth-http.o
+ .pdr           0x00000680       0x40 eth-icmp.o
+ .pdr           0x000006c0       0x80 eth-ip.o
+ .pdr           0x00000740      0x1e0 eth-main.o
+ .pdr           0x00000920       0x60 eth-netbios.o
+ .pdr           0x00000980      0x280 eth-nic.o
+ .pdr           0x00000c00       0xc0 eth-pop3.o
+ .pdr           0x00000cc0      0x180 eth-smtp.o
+ .pdr           0x00000e40       0x60 eth-sntp.o
+ .pdr           0x00000ea0      0x380 eth-tcp.o
+ .pdr           0x00001220      0x1a0 eth-udp.o
+ .pdr           0x000013c0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .pdr           0x000013e0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .pdr           0x00001400       0xa0 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .pdr           0x000014a0      0x2c0 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .pdr           0x00001760       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .pdr           0x00001780       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .pdr           0x000017a0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .pdr           0x000017c0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .pdr           0x000017e0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .pdr           0x00001800       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .pdr           0x00001820       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .pdr           0x00001840       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .pdr           0x00001860       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o)
+ .pdr           0x00001880       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_disable_interrupts_lib.o)
+ .pdr           0x000018a0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_mv_int_lib.o)
+ .pdr           0x000018c0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_restore_interrupts_lib.o)
+ .pdr           0x000018e0       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_in_lib.o)
+ .pdr           0x00001900       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_out_lib.o)
+ .pdr           0x00001920       0x40 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(pcache.o)
+ .pdr           0x00001960       0x20 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_interrupts_lib.o)
+ .pdr           0x00001980      0x120 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+
+.reginfo        0x00000000       0x18
+ *(.reginfo)
+ .reginfo       0x00000000       0x18 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0xd4b
+ *(.comment)
+ .comment       0x00000000       0x4d ap-main.o
+ .comment       0x0000004d       0x4d eth-arp.o
+ .comment       0x0000009a       0x4d eth-dhcp.o
+ .comment       0x000000e7       0x4d eth-dns.o
+ .comment       0x00000134       0x4d eth-http.o
+ .comment       0x00000181       0x4d eth-icmp.o
+ .comment       0x000001ce       0x4d eth-ip.o
+ .comment       0x0000021b       0x4d eth-main.o
+ .comment       0x00000268       0x4d eth-netbios.o
+ .comment       0x000002b5       0x4d eth-nic.o
+ .comment       0x00000302       0x4d eth-pop3.o
+ .comment       0x0000034f       0x4d eth-smtp.o
+ .comment       0x0000039c       0x4d eth-sntp.o
+ .comment       0x000003e9       0x4d eth-tcp.o
+ .comment       0x00000436       0x4d eth-udp.o
+ .comment       0x00000483       0x9a C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .comment       0x0000051d       0xa0 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ .comment       0x000005bd       0xa1 C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .comment       0x0000065e       0x9b C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .comment       0x000006f9       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000746       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .comment       0x00000793       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .comment       0x000007e0       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .comment       0x0000082d       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .comment       0x0000087a       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .comment       0x000008c7       0x9b C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .comment       0x00000962       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .comment       0x000009af       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(spi_chn_open_lib.o)
+ .comment       0x000009fc       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_disable_interrupts_lib.o)
+ .comment       0x00000a49       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_mv_int_lib.o)
+ .comment       0x00000a96       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_restore_interrupts_lib.o)
+ .comment       0x00000ae3       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_in_lib.o)
+ .comment       0x00000b30       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(port_set_pins_digital_out_lib.o)
+ .comment       0x00000b7d       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(pcache.o)
+ .comment       0x00000bca       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a(int_enable_interrupts_lib.o)
+ .comment       0x00000c17       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(spi_io_tbl_libp.o)
+ .comment       0x00000c64       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(spi_map_tbl_libp.o)
+ .comment       0x00000cb1       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(int_tbl_libp.o)
+ .comment       0x00000cfe       0x4d C:/Program Files/Microchip/MPLAB C32/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX360F512L.a(_ports_tbl_libp.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ap-main.o
+ .debug_aranges
+                0x00000020       0x20 eth-arp.o
+ .debug_aranges
+                0x00000040       0x20 eth-dhcp.o
+ .debug_aranges
+                0x00000060       0x20 eth-dns.o
+ .debug_aranges
+                0x00000080       0x20 eth-http.o
+ .debug_aranges
+                0x000000a0       0x20 eth-icmp.o
+ .debug_aranges
+                0x000000c0       0x20 eth-ip.o
+ .debug_aranges
+                0x000000e0       0x20 eth-main.o
+ .debug_aranges
+                0x00000100       0x20 eth-netbios.o
+ .debug_aranges
+                0x00000120       0x20 eth-nic.o
+ .debug_aranges
+                0x00000140       0x20 eth-pop3.o
+ .debug_aranges
+                0x00000160       0x20 eth-smtp.o
+ .debug_aranges
+                0x00000180       0x20 eth-sntp.o
+ .debug_aranges
+                0x000001a0       0x20 eth-tcp.o
+ .debug_aranges
+                0x000001c0       0x20 eth-udp.o
+
+.debug_pubnames
+                0x00000000     0x27b0
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x659 ap-main.o
+ .debug_pubnames
+                0x00000659       0xab eth-arp.o
+ .debug_pubnames
+                0x00000704      0x157 eth-dhcp.o
+ .debug_pubnames
+                0x0000085b      0x10f eth-dns.o
+ .debug_pubnames
+                0x0000096a      0x64e eth-http.o
+ .debug_pubnames
+                0x00000fb8       0x4e eth-icmp.o
+ .debug_pubnames
+                0x00001006       0xca eth-ip.o
+ .debug_pubnames
+                0x000010d0      0x293 eth-main.o
+ .debug_pubnames
+                0x00001363       0xe2 eth-netbios.o
+ .debug_pubnames
+                0x00001445      0x260 eth-nic.o
+ .debug_pubnames
+                0x000016a5      0x439 eth-pop3.o
+ .debug_pubnames
+                0x00001ade      0x6a2 eth-smtp.o
+ .debug_pubnames
+                0x00002180       0x96 eth-sntp.o
+ .debug_pubnames
+                0x00002216      0x3fc eth-tcp.o
+ .debug_pubnames
+                0x00002612      0x19e eth-udp.o
+
+.debug_info     0x00000000     0xcf54
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1dbd ap-main.o
+ .debug_info    0x00001dbd      0x7b0 eth-arp.o
+ .debug_info    0x0000256d      0x939 eth-dhcp.o
+ .debug_info    0x00002ea6      0x974 eth-dns.o
+ .debug_info    0x0000381a     0x1720 eth-http.o
+ .debug_info    0x00004f3a      0x705 eth-icmp.o
+ .debug_info    0x0000563f      0x90a eth-ip.o
+ .debug_info    0x00005f49      0xe82 eth-main.o
+ .debug_info    0x00006dcb      0x852 eth-netbios.o
+ .debug_info    0x0000761d      0xb82 eth-nic.o
+ .debug_info    0x0000819f      0xe46 eth-pop3.o
+ .debug_info    0x00008fe5     0x15c0 eth-smtp.o
+ .debug_info    0x0000a5a5      0x755 eth-sntp.o
+ .debug_info    0x0000acfa     0x1706 eth-tcp.o
+ .debug_info    0x0000c400      0xb54 eth-udp.o
+
+.debug_abbrev   0x00000000     0x1cf4
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2fe ap-main.o
+ .debug_abbrev  0x000002fe      0x1a1 eth-arp.o
+ .debug_abbrev  0x0000049f      0x1d4 eth-dhcp.o
+ .debug_abbrev  0x00000673      0x1e5 eth-dns.o
+ .debug_abbrev  0x00000858      0x1ed eth-http.o
+ .debug_abbrev  0x00000a45      0x16c eth-icmp.o
+ .debug_abbrev  0x00000bb1      0x18a eth-ip.o
+ .debug_abbrev  0x00000d3b      0x1b5 eth-main.o
+ .debug_abbrev  0x00000ef0      0x198 eth-netbios.o
+ .debug_abbrev  0x00001088      0x265 eth-nic.o
+ .debug_abbrev  0x000012ed      0x1c6 eth-pop3.o
+ .debug_abbrev  0x000014b3      0x205 eth-smtp.o
+ .debug_abbrev  0x000016b8      0x162 eth-sntp.o
+ .debug_abbrev  0x0000181a      0x28b eth-tcp.o
+ .debug_abbrev  0x00001aa5      0x24f eth-udp.o
+
+.debug_line     0x00000000     0x2a8d
+ *(.debug_line)
+ .debug_line    0x00000000      0x4fc ap-main.o
+ .debug_line    0x000004fc      0x199 eth-arp.o
+ .debug_line    0x00000695      0x27f eth-dhcp.o
+ .debug_line    0x00000914      0x239 eth-dns.o
+ .debug_line    0x00000b4d      0x58a eth-http.o
+ .debug_line    0x000010d7      0x112 eth-icmp.o
+ .debug_line    0x000011e9      0x15e eth-ip.o
+ .debug_line    0x00001347      0x269 eth-main.o
+ .debug_line    0x000015b0      0x187 eth-netbios.o
+ .debug_line    0x00001737      0x28c eth-nic.o
+ .debug_line    0x000019c3      0x2e8 eth-pop3.o
+ .debug_line    0x00001cab      0x47b eth-smtp.o
+ .debug_line    0x00002126      0x1b3 eth-sntp.o
+ .debug_line    0x000022d9      0x55e eth-tcp.o
+ .debug_line    0x00002837      0x256 eth-udp.o
+
+.debug_frame    0x00000000     0x12f8
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x240 ap-main.o
+ .debug_frame   0x00000240       0xa8 eth-arp.o
+ .debug_frame   0x000002e8       0x8c eth-dhcp.o
+ .debug_frame   0x00000374       0xa8 eth-dns.o
+ .debug_frame   0x0000041c      0x1a4 eth-http.o
+ .debug_frame   0x000005c0       0x50 eth-icmp.o
+ .debug_frame   0x00000610       0x8c eth-ip.o
+ .debug_frame   0x0000069c      0x1c0 eth-main.o
+ .debug_frame   0x0000085c       0x70 eth-netbios.o
+ .debug_frame   0x000008cc      0x27c eth-nic.o
+ .debug_frame   0x00000b48       0xc0 eth-pop3.o
+ .debug_frame   0x00000c08      0x170 eth-smtp.o
+ .debug_frame   0x00000d78       0x6c eth-sntp.o
+ .debug_frame   0x00000de4      0x374 eth-tcp.o
+ .debug_frame   0x00001158      0x1a0 eth-udp.o
+
+.debug_str      0x00000000      0x538
+ *(.debug_str)
+ .debug_str     0x00000000       0xc4 ap-main.o
+ .debug_str     0x000000c4       0x25 eth-arp.o
+ .debug_str     0x000000e9       0x25 eth-dhcp.o
+ .debug_str     0x0000010e       0x49 eth-dns.o
+ .debug_str     0x00000157       0x67 eth-http.o
+ .debug_str     0x000001be       0x40 eth-icmp.o
+ .debug_str     0x000001fe       0x3b eth-ip.o
+ .debug_str     0x00000239       0x7b eth-main.o
+ .debug_str     0x000002b4       0x12 eth-netbios.o
+ .debug_str     0x000002c6       0x73 eth-nic.o
+ .debug_str     0x00000339       0x3c eth-pop3.o
+ .debug_str     0x00000375       0x42 eth-smtp.o
+ .debug_str     0x000003b7       0x12 eth-sntp.o
+ .debug_str     0x000003c9       0xf1 eth-tcp.o
+ .debug_str     0x000004ba       0x7e eth-udp.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(tcp-ip.elf elf32-tradlittlemips)
+
+.mdebug.abi32   0x9d018854        0x0
+
+.rel.dyn        0x9d018854        0x0

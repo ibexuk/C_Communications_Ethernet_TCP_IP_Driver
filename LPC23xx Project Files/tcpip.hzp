@@ -1,0 +1,66 @@
+<!DOCTYPE CrossStudio_Project_File>
+<solution Name="tcpip" version="1">
+  <project Name="tcpip">
+    <configuration Name="Common" Target="LPC2365" arm_architecture="v4T" arm_core_type="ARM7TDMI-S" arm_simulator_memory_simulation_filename="$(StudioDir)/targets/Philips_LPC210X/LPC2000SimulatorMemory.dll" arm_simulator_memory_simulation_parameter="LPC23;0x40000;0x8000;0x10000;0x10000" arm_target_debug_interface_type="ARM7TDI" arm_target_loader_parameter="12000000" gcc_entry_point="reset_handler" link_include_startup_code="No" linker_additional_files="$(StudioDir)/lib/liblpc2000$(LibExt)$(LIB)" linker_memory_map_file="$(StudioDir)/targets/Philips_LPC210X/Philips_LPC2365_MemoryMap.xml" linker_output_format="hex" oscillator_frequency="12MHz" project_directory="" project_type="Executable" property_groups_file_path="$(StudioDir)/targets/Philips_LPC210X/propertyGroups23xx.xml"/>
+    <configuration Name="RAM" Placement="RAM" linker_section_placement_file="$(StudioDir)/targets/sram_placement.xml" target_reset_script="SRAMReset()"/>
+    <configuration Name="Flash" Placement="Flash" arm_target_flash_loader_file_path="$(StudioDir)/targets/Philips_LPC210X/Release/Loader_lpc2300.elf" arm_target_flash_loader_type="LIBMEM RPC Loader" linker_section_placement_file="$(StudioDir)/targets/flash_placement.xml" target_reset_script="FLASHReset()"/>
+    <folder Name="Source Files">
+      <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc"/>
+      <file Name="ap-main.c" file_name="ap-main.c"/>
+      <file Name="ap-main.h" file_name="ap-main.h"/>
+      <file Name="eth-arp.c" file_name="eth-arp.c"/>
+      <file Name="eth-arp.h" file_name="eth-arp.h"/>
+      <file Name="eth-dhcp.c" file_name="eth-dhcp.c"/>
+      <file Name="eth-dhcp.h" file_name="eth-dhcp.h"/>
+      <file Name="eth-dns.c" file_name="eth-dns.c"/>
+      <file Name="eth-dns.h" file_name="eth-dns.h"/>
+      <file Name="eth-http.c" file_name="eth-http.c"/>
+      <file Name="eth-http.h" file_name="eth-http.h"/>
+      <file Name="eth-icmp.c" file_name="eth-icmp.c"/>
+      <file Name="eth-icmp.h" file_name="eth-icmp.h"/>
+      <file Name="eth-ip.c" file_name="eth-ip.c"/>
+      <file Name="eth-ip.h" file_name="eth-ip.h"/>
+      <file Name="eth-main.c" file_name="eth-main.c"/>
+      <file Name="eth-main.h" file_name="eth-main.h"/>
+      <file Name="eth-netbios.c" file_name="eth-netbios.c"/>
+      <file Name="eth-netbios.h" file_name="eth-netbios.h"/>
+      <file Name="eth-nic.c" file_name="eth-nic.c"/>
+      <file Name="eth-nic.h" file_name="eth-nic.h"/>
+      <file Name="eth-pop3.c" file_name="eth-pop3.c"/>
+      <file Name="eth-pop3.h" file_name="eth-pop3.h"/>
+      <file Name="eth-smtp.c" file_name="eth-smtp.c"/>
+      <file Name="eth-smtp.h" file_name="eth-smtp.h"/>
+      <file Name="eth-sntp.c" file_name="eth-sntp.c"/>
+      <file Name="eth-sntp.h" file_name="eth-sntp.h"/>
+      <file Name="eth-tcp.c" file_name="eth-tcp.c"/>
+      <file Name="eth-tcp.h" file_name="eth-tcp.h"/>
+      <file Name="eth-udp.c" file_name="eth-udp.c"/>
+      <file Name="eth-udp.h" file_name="eth-udp.h"/>
+      <file Name="main.h" file_name="main.h"/>
+    </folder>
+    <folder Name="System Files">
+      <file Name="crt0.s" file_name="$(StudioDir)/source/crt0.s"/>
+      <file Name="Philips_LPC230X_Startup.s" file_name="Philips_LPC230X_Startup.s"/>
+      <file Name="LPC230x.c" file_name="$(StudioDir)/targets/Philips_LPC210X/LPC230x.c"/>
+      <file Name="Philips_LPC210X_Target.js" file_name="$(StudioDir)/targets/Philips_LPC210X/Philips_LPC210X_Target.js">
+        <configuration Name="Common" file_type="Reset Script"/>
+      </file>
+      <file Name="VIC_PL192.c" file_name="$(StudioDir)/targets/Philips_LPC210X/VIC_PL192.c"/>
+      <file Name="VIC_PL192_irq_handler.s" file_name="$(StudioDir)/targets/Philips_LPC210X/VIC_PL192_irq_handler.s"/>
+    </folder>
+  </project>
+  <configuration Name="ARM RAM Debug" inherited_configurations="ARM;RAM;Debug"/>
+  <configuration Name="ARM" arm_instruction_set="ARM" arm_library_instruction_set="ARM" c_preprocessor_definitions="__ARM" hidden="Yes"/>
+  <configuration Name="RAM" c_preprocessor_definitions="__RAM_BUILD" hidden="Yes"/>
+  <configuration Name="Debug" build_debug_information="Yes" c_preprocessor_definitions="DEBUG" gcc_optimization_level="None" hidden="Yes" link_include_startup_code="No"/>
+  <configuration Name="ARM RAM Release" inherited_configurations="ARM;RAM;Release"/>
+  <configuration Name="Release" build_debug_information="No" c_preprocessor_definitions="NDEBUG" gcc_optimization_level="Level 1" hidden="Yes" link_include_startup_code="No"/>
+  <configuration Name="THUMB RAM Debug" inherited_configurations="THUMB;RAM;Debug"/>
+  <configuration Name="THUMB" arm_instruction_set="THUMB" arm_library_instruction_set="THUMB" c_preprocessor_definitions="__THUMB" hidden="Yes"/>
+  <configuration Name="THUMB RAM Release" inherited_configurations="THUMB;RAM;Release"/>
+  <configuration Name="ARM Flash Debug" inherited_configurations="ARM;Flash;Debug"/>
+  <configuration Name="Flash" c_preprocessor_definitions="__FLASH_BUILD" hidden="Yes"/>
+  <configuration Name="ARM Flash Release" inherited_configurations="ARM;Flash;Release"/>
+  <configuration Name="THUMB Flash Debug" inherited_configurations="THUMB;Flash;Debug"/>
+  <configuration Name="THUMB Flash Release" inherited_configurations="THUMB;Flash;Release"/>
+</solution>

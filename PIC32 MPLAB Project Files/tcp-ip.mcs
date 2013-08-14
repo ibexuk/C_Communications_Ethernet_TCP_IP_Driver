@@ -1,0 +1,227 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\ap-main.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File001]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-arp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File002]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-dhcp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File003]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-dns.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File004]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-http.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File005]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-icmp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File006]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-ip.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File007]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-main.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File008]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-netbios.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File009]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-nic.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File010]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-pop3.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File011]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-smtp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File012]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-sntp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File013]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-tcp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File014]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\eth-udp.o
+Folder=Intermediary
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File015]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\tcp-ip.elf
+Folder=Output
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_REAL_ICE=1 --defsym=__ICD2RAM=1
+[File016]
+Location=C:\_EC\_PROJ\4821 TCP-IP Driver\firm\V1-00\tcp-ip.hex
+Folder=Output
+DeviceName=PIC32MX360F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\MPLAB C32\bin\pic32-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C32 Suite\lib;C:\Program Files\Microchip\MPLAB C32 Suite\pic32mx\lib||$(LKRDIR)||
+SOLK=<src>|ap-main.c|eth-arp.c|eth-dhcp.c|eth-dns.c|eth-http.c|eth-icmp.c|eth-ip.c|eth-main.c|eth-netbios.c|eth-nic.c|eth-pop3.c|eth-smtp.c|eth-sntp.c|eth-tcp.c|eth-udp.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_REAL_ICE=1 --defsym=__ICD2RAM=1
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files\Microchip\MPLAB C32\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files\Microchip\MPLAB C32\bin\pic32-ld.exe
