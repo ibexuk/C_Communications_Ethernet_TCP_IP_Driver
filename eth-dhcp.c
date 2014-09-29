@@ -546,6 +546,7 @@ BYTE dhcp_rx_packet (void)
 	received_ip.Val = 0;
 	option_subnet_mask.Val = 0;
 	option_gateway.Val = 0;
+	dhcp_server_ip_addr.val = 0;
 
 	//GET OPCODE
 	udp_read_next_rx_byte(&data);
@@ -673,11 +674,14 @@ BYTE dhcp_rx_packet (void)
 			option_gateway.v[2] = (BYTE)((option_data & 0x0000ff00) >> 8);
 			option_gateway.v[3] = (BYTE)(option_data & 0x000000ff);
 		}
-		//else if ((option_code == 3) && (option_len == 4) && (option_message_type == DHCP_MESSAGE_ACK))
-		//{
-		//	//----- DHCP SERVER IP ADDRESS ----- (Enable this if you want it for some reason - we get the server IP address from the packet header)
-		//	option_server_ip_addr = option_data;
-		//}
+		else if ((option_code == 54) && (option_len == 4) && (option_message_type == DHCP_MESSAGE_ACK))
+		{
+			//----- DHCP SERVER IP ADDRESS ----- (Enable this if you want it for some reason - we get the server IP address from the packet header)
+			dhcp_server_ip_addr.v[0] = (BYTE)(option_data >> 24);
+			dhcp_server_ip_addr.v[1] = (BYTE)((option_data & 0x00ff0000) >> 16);
+			dhcp_server_ip_addr.v[2] = (BYTE)((option_data & 0x0000ff00) >> 8);
+			dhcp_server_ip_addr.v[3] = (BYTE)(option_data & 0x000000ff);
+		}
 
 
 		//<<<< ADD ANY OTHER OPTIONS REQURIED HERE
@@ -687,7 +691,8 @@ BYTE dhcp_rx_packet (void)
 	
 
 	//----- STORE THE DHCP SERVER IP ADDRESS -----
-	dhcp_server_ip_addr.Val = udp_socket[dhcp_socket].remote_device_info.ip_address.Val;
+	if (dhcp_server_ip_addr.val == 0)
+		dhcp_server_ip_addr.Val = udp_socket[dhcp_socket].remote_device_info.ip_address.Val;
 
 
 	//----- PROCESS PACKET -----
