@@ -106,10 +106,12 @@ BYTE arp_resolve_ip_address(IP_ADDR *ip_address_to_resolve)
 //Returns 1 if resolved, 0 if not yet resolved
 BYTE arp_is_resolve_complete (IP_ADDR *ip_address_being_resolved, MAC_ADDR *resolved_mac_address)
 {
-	if ((arp_last_received_response.ip_address.Val == ip_address_being_resolved->Val) ||	//If IP address matches last returned ARP response then arp is resolved
-         (arp_last_received_response.ip_address.Val == our_gateway_ip_address.Val))			//or if the last returned IP address is the gateway IP address then arp
-     {    																					//is resolved (this would mean the target IP is on a different subnet so
-         																					//access to it should go via the gateway)
+
+	if (
+		(arp_last_received_response.ip_address.Val == ip_address_being_resolved->Val) ||											//If IP address matches last returned ARP response then arp is resolved
+        ((our_gateway_ip_address.Val != 0x00000000) && (arp_last_received_response.ip_address.Val == our_gateway_ip_address.Val))	//or if the last returned IP address is the gateway IP address then arp
+    )																																//is resolved (this would mean the target IP is on a different subnet so
+	{
         resolved_mac_address->v[0] = arp_last_received_response.mac_address.v[0];
         resolved_mac_address->v[1] = arp_last_received_response.mac_address.v[1];
         resolved_mac_address->v[2] = arp_last_received_response.mac_address.v[2];
